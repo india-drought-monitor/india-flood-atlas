@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/india-flood-atlas/static/css/main.177316f9.css",
-    "main.js": "/india-flood-atlas/static/js/main.40401e21.js",
+    "main.js": "/india-flood-atlas/static/js/main.d40683be.js",
     "static/css/539.48992e27.chunk.css": "/india-flood-atlas/static/css/539.48992e27.chunk.css",
     "static/js/539.d13ad969.chunk.js": "/india-flood-atlas/static/js/539.d13ad969.chunk.js",
     "static/js/80.8557a6ab.chunk.js": "/india-flood-atlas/static/js/80.8557a6ab.chunk.js",
@@ -21,7 +21,7 @@
     "static/media/VimalMishra.jpeg": "/india-flood-atlas/static/media/VimalMishra.71c90ff6a81d257d9201.jpeg",
     "index.html": "/india-flood-atlas/index.html",
     "main.177316f9.css.map": "/india-flood-atlas/static/css/main.177316f9.css.map",
-    "main.40401e21.js.map": "/india-flood-atlas/static/js/main.40401e21.js.map",
+    "main.d40683be.js.map": "/india-flood-atlas/static/js/main.d40683be.js.map",
     "539.48992e27.chunk.css.map": "/india-flood-atlas/static/css/539.48992e27.chunk.css.map",
     "539.d13ad969.chunk.js.map": "/india-flood-atlas/static/js/539.d13ad969.chunk.js.map",
     "80.8557a6ab.chunk.js.map": "/india-flood-atlas/static/js/80.8557a6ab.chunk.js.map",
@@ -37,6 +37,6 @@
   },
   "entrypoints": [
     "static/css/main.177316f9.css",
-    "static/js/main.40401e21.js"
+    "static/js/main.d40683be.js"
   ]
 }
